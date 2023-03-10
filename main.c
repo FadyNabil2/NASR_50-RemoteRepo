@@ -1,7 +1,8 @@
 #include <stdio.h>
 int main()
 {
-printf("Fady Nabil");
+printf("Git");
+printf("\n tool");
 
 return 0 ;
 }
